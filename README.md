@@ -12,3 +12,6 @@ This app delivers a seamless experience for users to stay informed about the cur
 - Frontend: HTML,CSS and JavaScript <br>
 - API Integration: Powered by OpenWeatherMap API <br>
 - Responsive Design: Ensures compatibility across desktop, tablet, and mobile devices. <br>
+
+//// ----------->
+NOTE - fetch the API with your own API key, so that you can interact with the application smoothly and can gather the weather info 
